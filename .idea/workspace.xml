@@ -5,17 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4969ac11-cf40-4227-bee4-0989c4d044e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Contribution_technique/calucluateSumofSubArrayMinimums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Heaps/CompleteMinHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Heaps/GenericHeap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Sorting/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trees/BinaryTrees/BFSinBt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Trees/BinaryTrees/Serialization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miscellaneous/Caller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miscellaneous/Kth_Smallest_element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miscellaneous/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/miscellaneous/Noble_Integer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Trees/BinaryTrees/BinaryTreeMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Trees/BinaryTrees/BinaryTreeMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
